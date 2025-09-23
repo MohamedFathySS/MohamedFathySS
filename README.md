@@ -7,17 +7,29 @@
   alt="mofathy313" /></a> </p>
 
 - 🔭 I’m currently working on **freelance**
-- 🌱 I’m currently learning **AI and How to build product**
+- 🌱 I’m currently learning **AI and How to build products**
 - 💬 Ask me about **fullstack & productmanagager**
+- 🤓 Always learning new things.
 - 📫 How to reach me **mf5778731@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/mofathy313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofathy313" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mohamed-fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-fathy" height="30" width="40" /></a>
-    <a href="https://fb.com/mohamed fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed fathy" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/mohamdfatthy31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamdfatthy31" height="30" width="40" /></a>
+    <a href="https://twitter.com/mofathy313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mofathy313" height="30" width="40" /></a> 
+    <a href="https://www.linkedin.com/in/mohamed-fathy-736b20381/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-fathy" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100041231401207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed fathy" height="30" width="40" /></a>
 </p>
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> A platform to practice problem-solving 
+
+<p align="center">
+  <a href="https://codeforces.com/profile/mohamedfathy31"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/u/Mohamdfatthy31/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://atcoder.jp/users/mohamedfathi"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
+
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,8 +70,10 @@
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedfathyss&show_icons=true&locale=en&layout=compact" alt="mohamedfathyss" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedfathyss&show_icons=true&locale=en" alt="mohamedfathyss" /></p>
+
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedfathyss&show_icons=true&locale=en" alt="mohamedfathyss" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfathyss&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfathyss" /> </p>
 

@@ -91,6 +91,17 @@
 <a href="https://nestjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="NestJS" width="40" height="40"/>
 </a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" width="40" height="40"/>
+</a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" width="40" height="40"/>
+</a>
+
 
 
 

@@ -7,7 +7,7 @@
   alt="mofathy313" /></a> </p>
 
 - 🔭 I’m currently working on **freelance**
-- 🌱 I’m currently learning **AI and How to build products**
+- 🌱 I’m currently learning **AI and How building impactful products to solve real-world problems**
 - 💬 Ask me about **fullstack & productmanagager**
 - 🤓 Always learning new things.
 - 📫 How to reach me **mf5778731@gmail.com**
